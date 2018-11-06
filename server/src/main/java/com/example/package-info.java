@@ -1,6 +1,6 @@
 /**
  *
- * This is package a name
+ * This is package a name.
  *
  */
 
